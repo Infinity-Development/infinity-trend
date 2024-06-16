@@ -8,7 +8,7 @@
 
 <hr />
 
-Graphing tools often demand extensive expertise and time, especially for detailed data visualizations. However, for creating straightforward trend lines, such complexity is unnecessary.
+Graphing tools typically require significant expertise and time investment, particularly for complex data visualizations. For simpler tasks like crafting trend lines, this complexity can be overkill. Infinity Trend simplifies this process, offering a React component for creating smooth, responsive trend and line graphs with ease. It draws inspiration from the simplicity and functionality of [react-trend](https://github.com/unsplash/react-trend), ensuring an intuitive and efficient user experience.
 
 ## Why Infinity Trend?
 

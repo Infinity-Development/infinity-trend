@@ -1,6 +1,6 @@
 {
     "name": "infinity-trend",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "A React component designed for effortlessly creating smooth, responsive trend and line graphs.",
     "main": "lib/index.js",
     "module": "es/index.js",
@@ -19,9 +19,6 @@
     },
     "dependencies": {
         "prop-types": "^15.8.1"
-    },
-    "peerDependencies": {
-        "react": "15.4.2"
     },
     "devDependencies": {
         "@kadira/storybook": "^2.35.3",

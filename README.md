@@ -43,7 +43,7 @@ These visualizations serve as benchmarks for the type of intuitive and straightf
 
 ### Demo
 
-Check out our [playground]() to mess around with some graphs.
+Check out our [playground](https://infinity-development.github.io/infinity-trend/) to mess around with some graphs.
 
 ---
 
@@ -59,6 +59,11 @@ $ yarn add infinity-trend
 # Alternatively:
 $ npm i -S infinity-trend
 ```
+
+UMD builds are also available via CDN and expose the component as `Trend`:
+- [infinity-trend.js](https://unpkg.com/browse/infinity-trend/umd/infinity-trend.js)
+- [infinity-trend.min.js](https://unpkg.com/browse/infinity-trend/umd/infinity-trend.min.js)
+
 
 ### Quickstart
 

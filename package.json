@@ -1,7 +1,7 @@
 {
     "name": "infinity-trend",
-    "version": "0.0.1",
-    "description": "A React library designed for effortlessly creating smooth, responsive trend and line graphs.",
+    "version": "0.0.2",
+    "description": "A React component designed for effortlessly creating smooth, responsive trend and line graphs.",
     "main": "lib/index.js",
     "module": "es/index.js",
     "files": ["css", "es", "lib", "umd"],
@@ -38,6 +38,7 @@
         "react-syntax-highlighter": "^15.5.0"
     },
     "license": "MIT",
+    "homepage": "https://infinity-development.github.io/infinity-trend/",
     "repository": {
         "type": "git",
         "url": "https://github.com/Infinity-Development/infinity-trend.git"

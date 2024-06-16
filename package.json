@@ -21,20 +21,33 @@
         "prop-types": "^15.8.1"
     },
     "peerDependencies": {
-        "react": "^18.3.1"
+        "react": "15.4.2"
     },
     "devDependencies": {
         "@kadira/storybook": "^2.35.3",
         "enzyme": "^3.11.0",
-        "eslint": "^9.5.0",
-        "eslint-config-unsplash": "^0.2.2",
+        "eslint": "3.10.2",
+        "eslint-config-unsplash": "0.2.2",
         "gh-pages": "^6.1.1",
         "highlight.js": "^11.9.0",
         "nwb": "^0.25.2",
-        "react": "^18.3.1",
-        "react-addons-test-utils": "^15.6.2",
-        "react-dom": "^18.3.1",
-        "react-slider": "^2.0.6",
+        "react": "15.4.2",
+        "react-addons-test-utils": "15.4.2",
+        "react-dom": "15.4.2",
+        "react-slider": "0.7.0",
         "react-syntax-highlighter": "^15.5.0"
-    }
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Infinity-Development/infinity-trend.git"
+    },
+    "keywords": [
+    "react-component",
+    "react",
+    "trend",
+    "svg",
+    "graph",
+    "data-visualization"
+  ]
 }

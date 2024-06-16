@@ -1,20 +1,20 @@
 module.exports = {
-    type: 'react-component',
-    npm: {
-        esModules: true,
-        umd: {
-            global: 'Trend',
-            externals: {
-                react: 'React',
-            },
-        },
+  type: 'react-component',
+  npm: {
+    esModules: true,
+    umd: {
+      global: 'Trend',
+      externals: {
+        react: 'React',
+      },
     },
-    karma: {
-        testDirs: ['src/utils']
-    },
-    webpack: {
-        compat: {
-            enzyme: true
-        }
+  },
+  karma: {
+    excludeFromCoverage: ['src/utils'],
+  },
+  webpack: {
+    compat: {
+      moment: ['de', 'en-gb', 'es', 'fr', 'it']
     }
-}
+  }
+};

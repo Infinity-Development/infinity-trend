@@ -1,0 +1,10 @@
+.configField {
+  position: relative;
+  margin-bottom: 1rem;
+  min-height: 60px;
+}
+
+.configField .label {
+  font-size: 13px;
+  margin-bottom: 0.5rem;
+}

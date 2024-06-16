@@ -1,18 +1,14 @@
 <div align="center">
   <h1>Infinity Trend</h1>
   <br />
-  <p>
-    A React component designed for effortlessly creating smooth, responsive trend and line graphs, inspired by:
-    <a href="https://github.com/unsplash/react-trend">react-trend</a>
-  </p>
   <a href="https://www.npmjs.org/package/infinity-trend"><img src="https://img.shields.io/npm/v/infinity-trend.png?style=flat-square" alt="npm"></a> <a href="https://codecov.io/gh/Infinity-Development/infinity-trend" >
 <img src="https://codecov.io/gh/Infinity-Development/infinity-trend/branch/master/graph/badge.svg?token=2G4QR7KSIL"/>
 </a>
 </div>
 
-<br /><br /><br />
+<hr />
 
-Graphing tools can be complex, requiring deep domain knowledge and a significant investment of time. This is justifiable for comprehensive data visualizations in analytics applications, but overkill for simple trend lines.
+Graphing tools often demand extensive expertise and time, especially for detailed data visualizations. However, for creating straightforward trend lines, such complexity is unnecessary.
 
 ## Why Infinity Trend?
 

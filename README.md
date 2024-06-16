@@ -5,7 +5,7 @@
     A React component designed for effortlessly creating smooth, responsive trend and line graphs, inspired by:
     <a href="https://github.com/unsplash/react-trend">react-trend</a>
   </p>
-  <a href="https://www.npmjs.org/package/infinity-trend"><img src="https://img.shields.io/npm/v/infinity-trend.png?style=flat-square" alt="npm"></a> <a href="https://codecov.io/github/infinity/infinity-trend"><img src="https://img.shields.io/codecov/c/github/infinity/infinity-trend.svg" alt="travis"></a>
+  <a href="https://www.npmjs.org/package/infinity-trend"><img src="https://img.shields.io/npm/v/infinity-trend.png?style=flat-square" alt="npm"></a> <a href="https://codecov.io/github/Infinity-Development/infinity-trend"><img src="https://img.shields.io/codecov/c/github/Infinity-Development/infinity-trend.svg" alt="travis"></a>
 </div>
 
 <br /><br /><br />

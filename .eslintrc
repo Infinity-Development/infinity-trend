@@ -1,0 +1,11 @@
+{
+    "extends": "unsplash",
+    "env": {
+      "browser": true,
+      "mocha": true,
+      "node": true
+    },
+    "rules": {
+      "import/no-extraneous-dependencies": 0
+    }
+  }
